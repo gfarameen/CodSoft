@@ -21,4 +21,4 @@ fields.
 
 - [Password Generator - Task # 02](https://github.com/gfarameen/CodSoft/tree/main/Password%20Generator)
 
-- [Rock Paper Scissor Game - Task # 03]()
+- [Rock Paper Scissor Game - Task # 03](https://github.com/gfarameen/CodSoft/tree/main/Rock-Paper-Scissor-Game)
