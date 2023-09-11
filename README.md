@@ -20,3 +20,5 @@ fields.
 - [Calculator - Task # 01](https://github.com/gfarameen/CodSoft/tree/main/Calculator)
 
 - [Password Generator - Task # 02](https://github.com/gfarameen/CodSoft/tree/main/Password%20Generator)
+
+- [Rock Paper Scissor Game - Task # 03]()
