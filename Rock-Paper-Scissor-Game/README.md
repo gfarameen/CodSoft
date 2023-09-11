@@ -14,7 +14,7 @@ Welcome to the "Rock, Paper, Scissors" game! This is a simple command-line game 
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/gfarameen/rock-paper-scissors.git
    ```
 
 2. Navigate to the project directory:
